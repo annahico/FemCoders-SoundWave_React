@@ -1,0 +1,23 @@
+:root {
+  /* Fondos */
+  --bg-general: #2F303A;          
+  --bg-darker: #202027;            
+  
+  /* Botones */
+  --btn-primary: #1762A7;          
+  --btn-hover: #2180d8;            
+  --btn-focus: #2796ff;            
+  --accent-blue: #2796ff;        
+  
+  /* Inputs y Bordes */
+  --border-input: #2E3852;         
+  --border-focus: #596da0;         
+
+  /* Círculos Decorativos con opacidad */
+  --circle-pink: #bc3a801a;        
+  --circle-blue: #3457b21a;        
+
+  /* Tipografía */
+  --font-family: 'Poppins', sans-serif; 
+  --font-size-base: 1.2rem;             
+}
